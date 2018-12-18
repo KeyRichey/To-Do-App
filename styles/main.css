@@ -1,0 +1,10 @@
+body{
+  padding-left: 35rem;
+  padding-top: 1rem;
+  background-color: lavender;
+}
+
+button{
+  color: white;
+  background-color: purple;
+}
